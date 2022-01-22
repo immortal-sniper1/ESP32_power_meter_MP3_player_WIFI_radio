@@ -418,6 +418,10 @@
     [
       "acf7da60-c7aa-4992-8db3-a6ff91160570",
       "power_measurement"
+    ],
+    [
+      "0fe1f74e-4cc8-412d-b8bc-832159a1ad3e",
+      "VUSB_Li-ion_BMS_to_3v3"
     ]
   ],
   "text_variables": {}
