@@ -422,6 +422,10 @@
     [
       "0fe1f74e-4cc8-412d-b8bc-832159a1ad3e",
       "VUSB_Li-ion_BMS_to_3v3"
+    ],
+    [
+      "2621aeaa-9788-4950-9c8a-57743e174960",
+      "STM32_stuff"
     ]
   ],
   "text_variables": {}
