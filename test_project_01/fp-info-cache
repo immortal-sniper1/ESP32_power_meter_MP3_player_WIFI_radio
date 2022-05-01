@@ -1,4 +1,4 @@
-21819309228697269
+21892225127531319
 Aesthetics
 BREADBOARD_SPACING
 BREADBOARD SPACING
@@ -2371,21 +2371,21 @@ Surface Mount Tactile Switch for High-Density Mounting, 3.1mm height, https://om
 Tactile Switch
 0
 4
-4
+2
 Button_Switch_SMD
 SW_SPST_Omron_B3FS-101xP
 Surface Mount Tactile Switch for High-Density Mounting, 4.3mm height, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf
 Tactile Switch
 0
 4
-4
+2
 Button_Switch_SMD
 SW_SPST_Omron_B3FS-105xP
 Surface Mount Tactile Switch for High-Density Mounting, 7.3mm height, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf
 Tactile Switch
 0
 4
-4
+2
 Button_Switch_SMD
 SW_SPST_PTS645
 C&K Components SPST SMD PTS645 Series 6mm Tact Switch
@@ -3113,7 +3113,7 @@ SW_TH_Tactile_Omron_B3F-10xx_https://www.omron.com/ecb/products/pdf/en-b3f.pdf
 Omron B3F-10xx
 0
 4
-4
+2
 Button_Switch_THT
 SW_Tactile_SKHH_Angled
 tactile switch 6mm ALPS SKHH right angle http://www.alps.com/prod/info/E/HTML/Tact/SnapIn/SKHH/SKHHLUA010.html
@@ -46837,6 +46837,13 @@ USB_A Female Connector receptacle
 6
 5
 Connector_USB
+USB_A_TE_292303-7_Horizontal
+USB type A, Horizontal, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=292303&DocType=Customer+Drawing&DocLang=English
+USB_A Female Connector receptacle
+0
+6
+5
+Connector_USB
 USB_A_Wuerth_614004134726_Horizontal
 USB A connector https://www.we-online.com/catalog/datasheet/614004134726.pdf
 USB_A Female Connector receptacle
@@ -55888,6 +55895,13 @@ ESP32
 38
 38
 Espressif
+ESP32-S2-DevKitM
+ESP32-S2 general-purpose development board
+ESP32-S2
+0
+42
+42
+Espressif
 ESP32-S2-MINI-1
 ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf
 ESP32-S2
@@ -57557,6 +57571,13 @@ Inductor_SMD
 L_Bourns_SRP7028A_7.3x6.6mm
 Shielded Power Inductors (https://www.bourns.com/docs/product-datasheets/srp7028a.pdf)
 Shielded Inductors Bourns SMD SRP7028A
+0
+2
+2
+Inductor_SMD
+L_Bourns_SRR1208_12.7x12.7mm
+Bourns SRP1208 series SMD inductor https://www.bourns.com/pdfs/SRR1208.pdf
+Bourns SRP1208 SMD inductor
 0
 2
 2
@@ -65219,9 +65240,23 @@ Laser Diode TO56
 3
 3
 OptoDevice
+Lightpipe_Dialight_515-1064F
+https://www.dialightsignalsandcomponents.com/515-optopipe-light-pipe-trilevel-2-5mm-rnd-flat-diff-lens-press-fit/#tab-resources
+lightpipe triple tower right angle 3mm
+0
+0
+0
+OptoDevice
 Lightpipe_LPF-C012303S
 https://www.lumex.com/spec/LPF-C012303S.pdf
 lightpipe dual tower right angle 3mm
+0
+0
+0
+OptoDevice
+Lightpipe_LPF-C013301S
+https://www.lumex.com/spec/LPF-C013301S.pdf
+lightpipe triple tower right angle 3mm
 0
 0
 0
@@ -79885,56 +79920,56 @@ potentiometer vertical 9mm dual
 6
 Potentiometer_THT
 Potentiometer_Alps_RK09K_Single_Horizontal
-Potentiometer, horizontal, Alps RK09K Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K_list.html
-Potentiometer horizontal Alps RK09K Single
+111009J 1110AK4 11100DN 1110AAR 1110077 1110A0J 110AMJ 1110B26 D1110C1A Potentiometer, horizontal, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf
+Potentiometer horizontal Alps RK09K Single Snapin
 0
 5
-3
+4
 Potentiometer_THT
 Potentiometer_Alps_RK09K_Single_Vertical
-Potentiometer, vertical, Alps RK09K Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09K/RK09K_list.html
-Potentiometer vertical Alps RK09K Single
+113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf
+Potentiometer vertical Alps RK09K RK09D Single Snapin
 0
-3
-3
+5
+4
 Potentiometer_THT
 Potentiometer_Alps_RK09L_Double_Horizontal
-Potentiometer, horizontal, Alps RK09L Double, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
+122002H 122002L 12B0A4S 12B0A1V Potentiometer, horizontal, Alps RK09L Double, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
 Potentiometer horizontal Alps RK09L Double
 0
 8
-6
+7
 Potentiometer_THT
 Potentiometer_Alps_RK09L_Double_Vertical
-Potentiometer, vertical, Alps RK09L Double, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
+1240015 1240019 12D0A1W 12D0A1T Potentiometer, vertical, Alps RK09L Double, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
 Potentiometer vertical Alps RK09L Double
 0
-6
-6
+8
+7
 Potentiometer_THT
 Potentiometer_Alps_RK09L_Single_Horizontal
-Potentiometer, horizontal, Alps RK09L Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
+1120A5F 1120036 1120A0Z 112003S Potentiometer, horizontal, Alps RK09L Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
 Potentiometer horizontal Alps RK09L Single
 0
 5
-3
+4
 Potentiometer_THT
 Potentiometer_Alps_RK09L_Single_Vertical
-Potentiometer, vertical, Alps RK09L Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09L/RK09L_list.html
+ 1140A5L 114001E 1140A2U 114001T Potentiometer, vertical, Alps RK09L Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09l/rk09l.pdf
 Potentiometer vertical Alps RK09L Single
 0
-3
-3
+5
+4
 Potentiometer_THT
 Potentiometer_Alps_RK09Y11_Single_Horizontal
-Potentiometer, horizontal, Alps RK09Y11 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK09Y11/RK09Y11_list.html
+Potentiometer, horizontal, Long Life, Alps RK09Y11 Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09y11/rk09y11.pdf
 Potentiometer horizontal Alps RK09Y11 Single
 0
 3
 3
 Potentiometer_THT
 Potentiometer_Alps_RK097_Dual_Horizontal
-Potentiometer, horizontal, Alps RK097 Dual, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK097/RK097_list.html
+1210, Dual Pot, Horizontal, Alps RK097 Dual,  https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
 Potentiometer horizontal Alps RK097 Dual
 0
 6
@@ -79942,27 +79977,34 @@ Potentiometer horizontal Alps RK097 Dual
 Potentiometer_THT
 Potentiometer_Alps_RK097_Dual_Horizontal_Switch
 1221-5R1211, Dual Pot, Horizontal, Switch, Alps RK097 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
-pot horizontal alps rk097 dual switch
+Potentiometer horizontal Alps RK097 Dual Switch
 0
 8
 8
 Potentiometer_THT
 Potentiometer_Alps_RK097_Single_Horizontal
-Potentiometer, horizontal, Alps RK097 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK097/RK097_list.html
+1110, Single Pot, Horizontal, Alps RK097 Single,  https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
 Potentiometer horizontal Alps RK097 Single
 0
 3
 3
 Potentiometer_THT
+Potentiometer_Alps_RK097_Single_Horizontal_Switch
+1111-5R1211, Single Pot, Horizontal, Switch, Alps RK097 Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk097/rk097.pdf
+Potentiometer horizontal Alps RK097 Single Switch
+0
+5
+5
+Potentiometer_THT
 Potentiometer_Alps_RK163_Dual_Horizontal
-Potentiometer, horizontal, Alps RK163 Dual, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html
+12101A2 1210AX9 12A0B85 12A0BKR  Potentiometer, horizontal, Alps RK163 Dual, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk16/rk16.pdf
 Potentiometer horizontal Alps RK163 Dual
 0
 6
 6
 Potentiometer_THT
 Potentiometer_Alps_RK163_Single_Horizontal
-Potentiometer, horizontal, Alps RK163 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK16/RK16_list.html
+1110U1Q 1110TNP 1110U2A 1110U0Q Potentiometer, horizontal, Alps RK163 Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk16/rk16.pdf
 Potentiometer horizontal Alps RK163 Single
 0
 3
@@ -81311,6 +81353,13 @@ ESP WROOM-02 espressif esp8266ex
 0
 19
 19
+RF_Module
+ESP32-S2-MINI-1U
+2.4 GHz Wi-Fi and Bluetooth combo chip, external antenna, https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf
+2.4 GHz Wi-Fi Bluetooth external antenna espressif  15.4*15.4mm
+0
+73
+65
 RF_Module
 ESP32-S2-WROVER
 ESP32-S2-WROVER(-I) 2.4 GHz Wi-Fi https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf
@@ -83867,6 +83916,20 @@ rotary encoder
 5
 4
 SamacSys_Parts
+1043
+1043-3
+Undefined or Miscellaneous
+0
+5
+5
+SamacSys_Parts
+601030
+601030-4
+Variable Resistor
+0
+3
+3
+SamacSys_Parts
 10033527N3112MLF
 10033527-N3112MLF-1
 Connector
@@ -83887,6 +83950,13 @@ Connector
 0
 16
 16
+SamacSys_Parts
+BATHLD001THM
+BAT-HLD-001-THM-1
+Undefined or Miscellaneous
+0
+5
+5
 SamacSys_Parts
 BEADC4516X185N
 HI1806T600R-10
@@ -83923,6 +83993,13 @@ Switch
 16
 16
 SamacSys_Parts
+EG1224
+EG1224
+Switch
+0
+7
+7
+SamacSys_Parts
 MEM20510019500A
 MEM2051-00-195-00-A-3
 Connector
@@ -83936,6 +84013,27 @@ Integrated Circuit
 0
 8
 8
+SamacSys_Parts
+NRH3012T220MNV
+NRH3012T220MNV-2
+Inductor
+0
+2
+2
+SamacSys_Parts
+NRS5020T100MMGJ
+NRS5020T100MMGJ-1
+Inductor
+0
+2
+2
+SamacSys_Parts
+OS102011MA1QN1
+OS102011MA1QN1
+Switch
+0
+5
+5
 SamacSys_Parts
 PA2050583NL
 PA2050.583NL-1
@@ -83953,6 +84051,13 @@ Integrated Circuit
 SamacSys_Parts
 PTS526SK15SMTR2LFS
 PTS526 SK15 SMTR2 LFS-1
+Switch
+0
+4
+4
+SamacSys_Parts
+PTS526SM15SMTR2LFS
+PTS526 SM15 SMTR2 LFS-2
 Switch
 0
 4
@@ -83994,7 +84099,14 @@ Integrated Circuit
 8
 SamacSys_Parts
 SOIC127P600X175-8N
-SOIC
+SO-8
+MOSFET (P-Channel)
+0
+8
+8
+SamacSys_Parts
+SOIC127P790X216-8N
+W25Q128JVSIQ
 Integrated Circuit
 0
 8
@@ -84006,6 +84118,13 @@ Integrated Circuit
 0
 10
 10
+SamacSys_Parts
+SOP65P640X120-24N
+24 PIN TSSOP - 4.4 mm
+Integrated Circuit
+0
+24
+24
 SamacSys_Parts
 SOP65P640X120-28N
 FT260S-U-1
@@ -84020,6 +84139,13 @@ Transistor BJT PNP
 0
 3
 3
+SamacSys_Parts
+SOT95P285X140-6N
+SOT26+
+TVS Diode (Uni-directional)
+0
+6
+6
 SamacSys_Parts
 SS52100001
 SS-52100-001-1
@@ -91560,6 +91686,27 @@ Transformer Ethernet SMD
 24
 24
 Transformer_SMD
+Transformer_Ethernet_Halo_N2_SO-16_7.11x12.7mm
+Halo N2 SO, 16 Pin (https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Halo SO Transformer_SMD
+0
+16
+16
+Transformer_SMD
+Transformer_Ethernet_Halo_N5_SO-16_7.11x12.7mm
+Halo N5 SO, 16 Pin (https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Halo SO Transformer_SMD
+0
+16
+16
+Transformer_SMD
+Transformer_Ethernet_Halo_N6_SO-16_7.11x14.73mm
+Halo N6 SO, 16 Pin (https://www.haloelectronics.com/pdf/discrete-ultra-100baset.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+Halo SO Transformer_SMD
+0
+16
+16
+Transformer_SMD
 Transformer_Ethernet_Wuerth_749013011A
 Ethernet Transformer, Wuerth 749013011A, https://www.we-online.com/katalog/datasheet/749013011A.pdf
 Ethernet Transformer
@@ -92834,12 +92981,26 @@ potentiometer
 3
 3
 Z_mycustom_footprint_lib
+ATS120SM
+
+
+0
+2
+2
+Z_mycustom_footprint_lib
 Adafruit MAX98357 I2S Class-D Mono
 
 
 0
 11
 11
+Z_mycustom_footprint_lib
+BATHLD001THM
+
+
+0
+5
+2
 Z_mycustom_footprint_lib
 Batt holder 2S1P
 
@@ -92854,6 +93015,13 @@ Heatsink fischer TO-220
 0
 2
 1
+Z_mycustom_footprint_lib
+QFP-multi-0.5mm
+
+
+0
+324
+100
 Z_mycustom_footprint_lib
 RA12131100
 
