@@ -2,7 +2,12 @@
 
   (uuid d9e89562-bbeb-4a8f-b5c2-ed97ed9e6ced)
 
-  (paper "A4")
+  (paper "A3")
+
+  (title_block
+    (title "ESP32 audio power meter SD dataloger")
+    (rev "1")
+  )
 
   (lib_symbols
     (symbol "Device:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)

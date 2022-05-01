@@ -434,10 +434,10 @@
     ],
     [
       "0fe1f74e-4cc8-412d-b8bc-832159a1ad3e",
-      "VUSB_Li-ion_BMS_to_3v3"
+      "Power-IN-OUT-BMS"
     ],
     [
-      "51e45f9b-65c8-496c-a25e-77b62ea6d315",
+      "5d741ed8-dc1c-4f0b-9a75-c6461ea925b3",
       "buck"
     ]
   ],
