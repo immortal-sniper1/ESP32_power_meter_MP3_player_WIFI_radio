@@ -1566,7 +1566,6 @@
     )
   )
 
-
   (junction (at 78.105 107.95) (diameter 0) (color 0 0 0 0)
     (uuid 1164f14c-ba4f-44a9-9b02-bdbdd11bbdce)
   )
@@ -3747,8 +3746,8 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f4b43ac6-5028-41dd-b180-79f8cdff3bca)
     (property "Reference" "F1" (id 0) (at 269.24 29.21 90))
-    (property "Value" "" (id 1) (at 269.24 31.75 90))
-    (property "Footprint" "" (id 2) (at 269.24 37.338 90)
+    (property "Value" "1.5 A" (id 1) (at 269.24 31.75 90))
+    (property "Footprint" "Fuse:Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (id 2) (at 269.24 37.338 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 269.24 35.56 0)
