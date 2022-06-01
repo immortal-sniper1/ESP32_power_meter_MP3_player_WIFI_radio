@@ -1,4 +1,4 @@
-21892225127531319
+21895595000906231
 Aesthetics
 BREADBOARD_SPACING
 BREADBOARD SPACING
@@ -84161,6 +84161,13 @@ Connector
 8
 8
 SamacSys_Parts
+TB00150003BE
+LGN2X101MELC30
+Connector
+0
+3
+3
+SamacSys_Parts
 TO546P531X1558X2499-3P
 PTVS14VS1UTR,115
 Transistor
@@ -92982,7 +92989,7 @@ potentiometer
 3
 Z_mycustom_footprint_lib
 ATS120SM
-
+crystal
 
 0
 2
@@ -93008,6 +93015,13 @@ Batt holder 2S1P
 0
 0
 0
+Z_mycustom_footprint_lib
+DC plug jack 5.5-2.5mm
+
+
+0
+3
+3
 Z_mycustom_footprint_lib
 HSE-B20500-040H
 Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,
