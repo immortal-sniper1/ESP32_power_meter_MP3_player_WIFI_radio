@@ -5,8 +5,8 @@
   (paper "A3")
 
   (title_block
-    (title "ESP32 audio power meter SD dataloger")
-    (rev "1")
+    (title "ESP32 MP3 player/web radio+power meter+uSD dataloger")
+    (rev "2")
   )
 
   (lib_symbols

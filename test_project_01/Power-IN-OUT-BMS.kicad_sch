@@ -5,8 +5,8 @@
   (paper "A3")
 
   (title_block
-    (title "ESP32 audio power meter SD dataloger")
-    (rev "1")
+    (title "ESP32 MP3 player/web radio+power meter+uSD dataloger")
+    (rev "2")
   )
 
   (lib_symbols
@@ -1801,6 +1801,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2bd0e7d1-0f1b-46bc-a1f7-c5e03029079f)
   )
+  (text "BUCK" (at 297.18 88.9 0)
+    (effects (font (size 5 5)) (justify left bottom))
+    (uuid 3c02a9ae-89e6-4ba2-ba70-124aea0313dc)
+  )
   (text "TE uses 1.8V logic\nactive high\nactivates a timer" (at 53.34 95.25 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5424ebc5-b467-49ef-b222-bdd244bb4900)
@@ -1810,16 +1814,12 @@
     (uuid 918a6ed1-394e-4086-a33a-6fbcc5949692)
   )
   (text "Linear regulator\njust in case the buck fails \nor i need lower noise power"
-    (at 295.91 38.1 0)
+    (at 316.865 72.39 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 993e9cb7-59f4-406b-a6be-74d161ce187c)
   )
-  (text "Power" (at 187.96 27.94 0)
-    (effects (font (size 5 5)) (justify left bottom))
-    (uuid 9e222689-210c-4af8-8863-9f3c97f0b732)
-  )
   (text "BATT TO USB POWER AUTO SHITCHING\n WITH REVERSE POWER PROTECTION\nAND PROTECTED CHARGEING CCCV"
-    (at 123.19 48.26 0)
+    (at 77.47 59.055 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ad5e3909-dbf1-4202-95f4-94b5c05056d3)
   )
@@ -1827,9 +1827,17 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid aea18539-24b7-4641-88c3-68a42bfdc31a)
   )
+  (text "LDO" (at 295.275 40.64 0)
+    (effects (font (size 5 5)) (justify left bottom))
+    (uuid d7ecadc8-25a6-477d-a3b6-fa459746c0d8)
+  )
   (text "200-300mA\n<100 typical" (at 339.09 114.3 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid da7968eb-fa73-4885-bebb-977d996738a8)
+  )
+  (text "BMS+POWER SOURCE AUTO SWITCHING" (at 50.165 47.625 0)
+    (effects (font (size 5 5)) (justify left bottom))
+    (uuid e7bf0c36-7b46-442f-9a14-efd31557f46b)
   )
 
   (label "Drains" (at 192.405 52.705 0)
@@ -1898,6 +1906,11 @@
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 90.8898 82.4706 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
+  )
+
+  (hierarchical_label "5v" (shape input) (at 27.94 62.23 90)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 4def91fc-5b59-4aa0-afc0-0c7a67fc871a)
   )
 
   (symbol (lib_id "Device:R") (at 187.96 105.41 0) (mirror x) (unit 1)
