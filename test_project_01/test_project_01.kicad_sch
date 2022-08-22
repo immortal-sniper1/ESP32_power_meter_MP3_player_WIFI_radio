@@ -4178,7 +4178,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 28.575 238.76 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 1502076b-ed54-4fa4-b3f0-3733667d1fa6)
     (property "Reference" "FID2" (id 0) (at 31.115 237.4899 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4633,7 +4633,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 28.575 259.715 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 5049be6b-5dc8-4d1f-8f7e-08da6a5e1bb8)
     (property "Reference" "FID5" (id 0) (at 31.115 258.4449 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4650,7 +4650,7 @@
   )
 
   (symbol (lib_id "power:+VDC") (at 122.555 212.725 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 514c6b10-643c-4ab6-b9f4-7f4198e7eafa)
     (property "Reference" "#PWR07" (id 0) (at 122.555 215.265 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5014,7 +5014,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 26.035 203.2 270) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 7451668d-ced4-4aee-aa6f-4e5eb28c8b6e)
     (property "Reference" "H2" (id 0) (at 30.48 201.9299 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5032,7 +5032,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 28.575 231.775 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 74ba3b27-d9f4-477f-81e7-c97ddf884e59)
     (property "Reference" "FID1" (id 0) (at 31.115 230.5049 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5116,7 +5116,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 28.575 245.745 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 7f3faa39-0600-4f9f-81d4-718acc537345)
     (property "Reference" "FID3" (id 0) (at 31.115 244.4749 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5454,7 +5454,7 @@
   )
 
   (symbol (lib_id "Mechanical:Fiducial") (at 28.575 252.73 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid a07d7fa8-757d-4935-876b-356ae923a7e9)
     (property "Reference" "FID4" (id 0) (at 31.115 251.4599 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5562,7 +5562,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 26.035 198.12 270) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid b4aebafe-5eb4-40c3-8dff-e40658456702)
     (property "Reference" "H1" (id 0) (at 30.48 196.8499 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5617,7 +5617,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 26.035 208.28 270) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid baf5aee4-fb53-4369-a876-06bfc4a16453)
     (property "Reference" "H3" (id 0) (at 30.48 207.0099 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5800,7 +5800,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 26.035 212.725 270) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid ca4fb78e-67f5-4285-bb50-654813bf7685)
     (property "Reference" "H4" (id 0) (at 30.48 211.4549 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6960,7 +6960,7 @@
       (reference "R31") (unit 1) (value "5m") (footprint "Resistor_SMD:R_0612_1632Metric_Pad1.18x3.40mm_HandSolder")
     )
     (path "/acf7da60-c7aa-4992-8db3-a6ff91160570/a45b894f-bbce-42b8-b9eb-7de40fd81e0c"
-      (reference "R32") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+      (reference "R32") (unit 1) (value "1Meg") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/acf7da60-c7aa-4992-8db3-a6ff91160570/21b8b8dd-b0d8-45a5-9840-5581a83e37e6"
       (reference "R33") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
