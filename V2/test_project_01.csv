@@ -1,0 +1,61 @@
+picked,Ref,Qnty,Value,Cmp name,Footprint
+,"C1, C3, C8, C26, ",4,10u,C_Small,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+,"C2, C9, C11, C13, C15, ",5,1u,C_Small,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+,"C4, C5, C6, C7, C12, C14, C23, ",7,100n,C_Small,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+,"C10, ",1,0.1u,C_Small,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+,"C16, ",1,4.7u,C_Small,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+,"C17, C18, ",2,1u,C_Small,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+,"C19, ",1,22u,C_Small,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm
+,"C20, ",1,22p optional,C_Small,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+,"C21, C22, C24, C25, ",4,10u,C_Small,Capacitor_SMD:C_0805_2012Metric
+,"D1, D5, D6, D7, D8, D9, ",6,LED_Small Green,LED_Small,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+,"D2, D3, ",2,LED_Small,LED_Small,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+,"D4, ",1,D_Shockley,D_Shockley,Diode_THT:D_DO-15_P5.08mm_Vertical_AnodeUp
+,"F1, F2, ",2,1.5 A,Fuse,Fuse:Fuse_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+,"FB1, ",1,HI1806T600R-10,HI1806T600R-10,SamacSys_Parts:BEADC4516X185N
+,"FB2, ",1,FerriteBead_Small,FerriteBead_Small,Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+,"IC1, ",1,XRA1203IG24TR-F,XRA1203IG24TR-F,SamacSys_Parts:SOP65P640X120-24N
+,"IC2, ",1,INA2181A4QDGSRQ1,INA2181A4QDGSRQ1,SOP50P490X110-10N
+,"IC3, ",1,MCP73834T-FCI_UN,MCP73834T-FCI_UN,SamacSys_Parts:SOP50P490X110-10N
+,"IC4, ",1,AP2112M-3.3TRG1,AP2112M-3.3TRG1,SamacSys_Parts:SOIC127P600X170-8N
+,"J1, ",1,STX-3120-5B,STX-3120-5B,SamacSys_Parts:STX31205B
+,"J2, ",1,SS-52100-001,SS-52100-001,SamacSys_Parts:SS52100001
+,"J3, ",1,MEM2051-00-195-00-A,MEM2051-00-195-00-A,SamacSys_Parts:MEM20510019500A
+,"J4, ",1,Barrel_Jack_Switch,Barrel_Jack_Switch,Z_mycustom_footprint_lib:DC plug jack 5.5-2.5mm
+,"J5, ",1,Barrel_Jack_Switch,Barrel_Jack_Switch,Connector_BarrelJack:BarrelJack_Wuerth_6941xx301002
+,"J6, J7, ",2,Conn_01x03,Conn_01x03,Connectors:SCREWTERMINAL-5MM-3
+,"J8, ",1,Conn_01x06,Conn_01x06,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical
+,"J9, ",1,USB_A,USB_A,Connector_USB:USB_A_Molex_67643_Horizontal
+,"J10, ",1,10033527-N3112MLF,10033527-N3112MLF,SamacSys_Parts:10033527N3112MLF
+,"J11, J12, ",2,Conn_01x02,Conn_01x02,TestPoint:TestPoint_2Pads_Pitch5.08mm_Drill1.3mm
+,"J13, ",1,Conn_01x02,Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+,"JP1, ",1,Jumper_2_Bridged,Jumper_2_Bridged,Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm
+,"JP2, ",1,Jumper_3_Open,Jumper_3_Open,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical
+,"L1, ",1,"NRH3012T2R2MN  2,2uH",NRH3012T2R2MN,SamacSys_Parts:NRH3012T220MNV
+,"Q1, ",1,DMG9933USD-13,DMG9933USD-13,SamacSys_Parts:SOIC127P600X175-8N
+,"R1, R24, R25, ",3,1k,R_Small,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+,"R2, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R21, R22, R23, R28, R33, R34, R38, R39, R40, ",26,10k,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+,"R3, ",1,20k,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+,"R20, ",1,4.7k,R,Resistor_SMD:R_0805_2012Metric
+,"R26, R27, R29, ",3,100k,R_Small,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+,"R30, R44, R45, R46, R47, ",5,330,R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+,"R31, R41, ",2,5m,R,Resistor_SMD:R_0612_1632Metric_Pad1.18x3.40mm_HandSolder
+,"R32, R42, R43, ",3,1Meg,R_Small,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+,"R35, ",1,30m,R,Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder
+,"R36, R37, ",2,470,R_Small,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
+,"RR1, ",1,91k,R_Small,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+,"RR2, ",1,20k,R_Small,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+,"RV1, ",1,R_Potentiometer,R_Potentiometer,Potentiometer_THT:Potentiometer_Bourns_3386F_Vertical
+,"S1, S2, ",2,DS01C-254-S-08BE,DS01C-254-S-08BE,SamacSys_Parts:DS01C254S08BE
+,"S3, ",1,EG1224  SPDT switch,EG1224,SamacSys_Parts:EG1224
+,"SW1, ",1,SW_SPST,SW_SPST,SamacSys_Parts:PTS526SM15SMTR2LFS
+,"TP1, TP2, TP3, ",3,TestPoint,TestPoint,TestPoint:TestPoint_Pad_1.0x1.0mm
+,"U1, ",1,ESP32-C3-MINI-1,ESP32-C3-MINI-1,Espressif:ESP32-C3-MINI-1_Hand-Soldering
+,"U2, ",1,LM4040DBZ-3,LM4040DBZ-3,Package_TO_SOT_SMD:SOT-23
+,"U3, ",1,MCP3208,MCP3208,Package_SO:SOIC-16_3.9x9.9mm_P1.27mm
+,"U4, ",1,Adafruit_MAX98357,Adafruit_MAX98357,Z_mycustom_footprint_lib:Adafruit MAX98357 I2S Class-D Mono
+,"U5, ",1,D1213A-02SM,D1213A-02SM,Package_TO_SOT_SMD:SOT-23-5
+,"U6, ",1,LM324A,LM324A,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm
+,"U7, ",1,1043,1043,SamacSys_Parts:1043
+,"U8, ",1,APX810S05,APX810S05,Package_TO_SOT_SMD:SOT-23
+,"U10, ",1,DIO6012BCST6,DIO6012BCST6,Package_TO_SOT_SMD:SOT-23-6_Handsoldering

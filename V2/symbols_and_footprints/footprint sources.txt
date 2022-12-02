@@ -1,0 +1,5 @@
+https://github.com/quirkz/ESP32-_C3_-MINI-_1
+
+
+
+https://github.com/espressif/kicad-libraries
