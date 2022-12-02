@@ -5,3 +5,5 @@
  LED is on then the cell is fully charged.
  NOTE: the voltage levels are set by the ICs and it is : 4.2V as charged state and 3V as discharged.
  If the cel voltage reaches 3V or lower then a circuit will activate and disconect the cell from the system so that it will not overdischarge.
+ 
+ V1 is made with ESP32-MINI and that is super hard to hand assemble so V2+ wil use the VROOM
