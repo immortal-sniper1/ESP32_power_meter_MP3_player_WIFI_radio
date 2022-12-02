@@ -36,7 +36,6 @@
       8,
       9,
       10,
-      11,
       13,
       14,
       15,
@@ -62,7 +61,7 @@
       36
     ],
     "visible_layers": "ffdffff_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "ESP32_power_meter_MP3_player_WIFI_radio_V2.kicad_prl",
